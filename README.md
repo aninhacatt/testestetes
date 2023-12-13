@@ -19,7 +19,7 @@
 
     <script>
         function exibirJumpscare() {
-            // Adicione aqui o código para exibir o jumpscare (vídeo, imagem, som, etc.)
+            // https://youtu.be/T1oT940nozc
             alert('Boa tentativa!');
         }
     </script>
